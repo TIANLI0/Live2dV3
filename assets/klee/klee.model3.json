@@ -10,37 +10,37 @@
 		"Motions": {
 			"Idle": [
 				{
-					"File": "motion/kleesajiao.motion3.json"
+					"File": "motion/kleesajiao.motion3.json",
 					"FadeInTime": 0.5,
 					"FadeOutTime": 0.5
 
 				},
 				{
-					"File": "motion/kleeyihuo.motion3.json"
+					"File": "motion/kleeyihuo.motion3.json",
 					"FadeInTime": 0.5,
 					"FadeOutTime": 0.5
 
 				},
 				{
-					"File": "motion/klee5.motion3.json"
+					"File": "motion/klee5.motion3.json",
 					"FadeInTime": 0.5,
 					"FadeOutTime": 0.5
 
 				},
 				{
-					"File": "motion/klee6.motion3.json"
+					"File": "motion/klee6.motion3.json",
 					"FadeInTime": 0.5,
 					"FadeOutTime": 0.5
 
 				},
 				{
-					"File": "motion/kleefadai.motion3.json"
+					"File": "motion/kleefadai.motion3.json",
 					"FadeInTime": 0.5,
 					"FadeOutTime": 0.5
 
 				},
 				{
-					"File": "motion/kleehaixiu.motion3.json"
+					"File": "motion/kleehaixiu.motion3.json",
 					"FadeInTime": 0.5,
 					"FadeOutTime": 0.5
 
