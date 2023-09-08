@@ -79,7 +79,7 @@
 		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "ParamGroup3",
-			"Name": "嘴巴　张开和闭合"
+			"Name": "嘴 开闭"
 		},
 		{
 			"Id": "ParamEyeLOpen",
@@ -102,7 +102,7 @@
 			"Name": "右眉　変形"
 		},
 		{
-			"Id": "ParamBreath",
+			"Id": "ParamBodyAngleY",
 			"GroupId": "ParamGroup7",
 			"Name": "角度 Y"
 		},
@@ -110,6 +110,11 @@
 			"Id": "ParamBodyAngleZ",
 			"GroupId": "ParamGroup7",
 			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup7",
+			"Name": "呼吸"
 		},
 		{
 			"Id": "ParamSkirt",
