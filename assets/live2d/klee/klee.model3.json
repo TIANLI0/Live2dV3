@@ -1,62 +1,58 @@
 {
-    "Version": 3,
-    "FileReferences": {
-        "Moc": "klee.moc3",
-        "Textures": [
-            "klee.2048/texture_00.png"
-        ],
-        "Physics": "klee.physics3.json",
-        "DisplayInfo": "klee.cdi3.json",
-        "Motions": {
-           "Idle": [
-                {
-                   "File": "motion/idle.motion3.json",
-                    "FadeInTime": 0.5,
-                    "FadeOutTime": 0.5
-
-                },
-                {
-                    "File": "motion/main_1.motion3.json",
-                    "FadeInTime": 0.5,
-                    "FadeOutTime": 0.5
-
-                },
-                {
-                    "File": "motion/main_2.motion3.json",
-                    "FadeInTime": 0.5,
-                    "FadeOutTime": 0.5
-
-                },
-                {
-                    "File": "motion/main_3.motion3.json",
-                    "FadeInTime": 0.5,
-                    "FadeOutTime": 0.5
-
-                },
-                {
-                    "File": "motion/special_01.motion3.json",
-                    "FadeInTime": 0.5,
-                    "FadeOutTime": 0.5
-
-                }
-            ]
-        }
-    },
-    "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": [
-        "ParamMouthOpenY"
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
-      ]
-    }
-  ]
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "klee.moc3",
+		"Textures": [
+			"klee.2048/texture_00.png"
+		],
+		"Physics": "klee.physics3.json",
+		"DisplayInfo": "klee.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motion/idle.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "motion/main_1.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "motion/main_2.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "motion/main_3.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "motion/special_01.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
 }
