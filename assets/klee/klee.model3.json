@@ -1,27 +1,62 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "klee.moc3",
-		"Textures": [
-			"klee.2048/texture_00.png"
-		],
-		"DisplayInfo": "klee.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": [
-				"ParamMouthOpenY"
-			]
-		}
-	]
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "klee.moc3",
+        "Textures": [
+            "klee.2048/texture_00.png"
+        ],
+        "Physics": "klee.physics3.json",
+        "DisplayInfo": "klee.cdi3.json",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motion/kleesajiao.motion3.json",
+                    "FadeInTime": 0.5,
+                    "FadeOutTime": 0.5
+
+                },
+                {
+                    "File": "motion/kleeyihuo.motion3.json",
+                    "FadeInTime": 0.5,
+                    "FadeOutTime": 0.5
+
+                },
+                {
+                    "File": "motion/klee5.motion3.json",
+                    "FadeInTime": 0.5,
+                    "FadeOutTime": 0.5
+
+                },
+                {
+                    "File": "motion/kleefadai.motion3.json",
+                    "FadeInTime": 0.5,
+                    "FadeOutTime": 0.5
+
+                },
+                {
+                    "File": "motion/kleehaixiu.motion3.json",
+                    "FadeInTime": 0.5,
+                    "FadeOutTime": 0.5
+
+                }
+            ]
+        }
+    },
+    "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    }
+  ]
 }
