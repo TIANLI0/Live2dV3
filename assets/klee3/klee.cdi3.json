@@ -1,0 +1,173 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup8",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup8",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamArmLA",
+			"GroupId": "ParamGroup6",
+			"Name": "右边手旋转"
+		},
+		{
+			"Id": "ParamArmRA",
+			"GroupId": "ParamGroup6",
+			"Name": "左边手旋转"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "X轴"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup4",
+			"Name": "Y轴"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "Z轴"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup4",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup4",
+			"Name": "腮红"
+		},
+		{
+			"Id": "ParamHairAhoge",
+			"GroupId": "ParamGroup5",
+			"Name": "呆毛"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup5",
+			"Name": "左前小辫子"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup5",
+			"Name": "右前小辫子"
+		},
+		{
+			"Id": "ParamRibbon",
+			"GroupId": "ParamGroup5",
+			"Name": "羽毛"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup5",
+			"Name": "左后小辫子"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup5",
+			"Name": "右后小辫子"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴 开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup2",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup7",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup7",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup7",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamSkirt",
+			"GroupId": "ParamGroup7",
+			"Name": "裙子飘动"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "眼珠"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "手臂"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "头部"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "头发"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眨眼"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "身体"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "testkleelive2d合并.psd"
+		}
+	]
+}
